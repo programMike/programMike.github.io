@@ -1,0 +1,4 @@
+
+function alertCurrentDateTime() {
+  alert(Date());
+}

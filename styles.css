@@ -1,0 +1,22 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+	font-family: verdana;
+	background-color: skyblue;
+	text-align: center;
+}
+p {
+  font-family: courier;
+  background-color: skyblue;
+  height: 439px;
+}	
+img {
+  float: right;
+}
+button {
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: skyblue;
+}
